@@ -1,4 +1,4 @@
-**Turbofan Engine Remaining Useful Life (RUL) Prediction**
+**Turbofan Engine Remaining Useful Life (RUL) Prediction**\n
 This project focuses on predicting the Remaining Useful Life (RUL) of turbofan engines using machine learning and deep learning techniques. The goal is to build accurate predictive models that can estimate how many operational cycles an engine has left before it is likely to fail. This is a critical task in predictive maintenance, helping to prevent catastrophic failures and optimize maintenance schedules.
 
 The project uses the NASA Turbofan Engine Degradation Simulation dataset, which provides time-series data from multiple sensors on a fleet of engines.
